@@ -1,0 +1,13 @@
+from biblioteca_herança import *
+gato1 = Gato("gordinho", "tricolor")
+gato1.emitirSom()
+gato1.comer()
+dog1 = Cachorro("bidu", "azul")
+dog1.emitirSom()
+dog1.comer()
+coelho1 = Coelho("perna longa", "branco")
+coelho1.emitirSom()
+coelho1.comer()
+vaca1 = Vaca("lollo", "amarelo")
+vaca1.emitirSom()
+vaca1.comer()
